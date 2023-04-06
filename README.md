@@ -3,23 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=ChristmasCatt&label=Profile%20views&color=0e75b6&style=flat" alt="ChristmasCatt" />
 </p>
 
-<h4 align="center">Hi 👋, I'm Christmas_Cat💕😊,who is very passionate about application development and application security since when I was 8 years old. </h4>
-
-<h4 align="center">I have 5+ years of proven experience in this field. I am very interested in software development and penetration testing ✔️. Apart from that, I'm developing applications and a video editor📸.</h4>
-
-<h4 align="center">🎮 Love to explore new things and make applications every day as a hobby and enjoy life.😁😉</h4>
-
-
-- 🎯 I would like to make my own company one day:)
-
-- ⚡ Currently working on LogicLab LTD :)
-
-- 🏆 I'm a student at school right now. I enjoy learning new things and expanding my knowledge on different subjects.
-
-<hr/>
-
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-4/1043298036115329066.png" alt="cu-chi" /> </p>
-<p align="center"> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ChristmasCatt&theme=dark&hide_border=true&dates=DDDADA50&background=DDDDDD10&fire=1FBFDD&ring=1FBFDD&currStreakLabel=1FBFDD&stroke=DDDADA50"/> </p>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-4/666732305037000726.png" alt="cu-chi" /> </p>
+<p align="center"> <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=uncentered&theme=dark&hide_border=true&dates=DDDADA50&background=DDDDDD10&fire=1FBFDD&ring=1FBFDD&currStreakLabel=1FBFDD&stroke=DDDADA50"/> </p>
 
 <p align="center">
   <a href="https://github.com/ChristmasCatt">
